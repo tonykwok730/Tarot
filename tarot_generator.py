@@ -36,7 +36,7 @@ card_deck = major + minor
 
 
 #User input
-
+input('Ask tarot a question.')
 number_of_cards = int(input('How many cards do you want to draw?'))
 
 #Time for playing!
